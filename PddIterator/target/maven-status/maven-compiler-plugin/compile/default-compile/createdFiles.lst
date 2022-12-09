@@ -1,0 +1,9 @@
+com/mycompany/pdditerator/Demo.class
+iterators/FacebookIterator.class
+social_networks/Facebook.class
+spammer/SocialSpammer.class
+iterators/ProfileIterator.class
+social_networks/LinkedIn.class
+iterators/LinkedInIterator.class
+profile/Profile.class
+social_networks/SocialNetwork.class
